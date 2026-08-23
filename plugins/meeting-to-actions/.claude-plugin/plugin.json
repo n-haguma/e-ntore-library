@@ -1,0 +1,5 @@
+{
+  "name": "meeting-to-actions",
+  "version": "0.1.0",
+  "description": "Turns meeting notes into who does what by when, and nothing else."
+}

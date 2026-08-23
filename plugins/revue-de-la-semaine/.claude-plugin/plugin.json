@@ -1,0 +1,5 @@
+{
+  "name": "revue-de-la-semaine",
+  "version": "0.1.0",
+  "description": "Relit une semaine de notes et en tire trois points et une question."
+}

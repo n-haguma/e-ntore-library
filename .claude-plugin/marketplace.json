@@ -1,0 +1,29 @@
+{
+  "name": "e-ntore-library",
+  "owner": {
+    "name": "e-ntore",
+    "url": "https://entore.ai"
+  },
+  "plugins": [
+    {
+      "name": "link-gist",
+      "source": "./plugins/link-gist",
+      "description": "Says what a saved link is about in two lines, and why it was worth keeping."
+    },
+    {
+      "name": "meeting-to-actions",
+      "source": "./plugins/meeting-to-actions",
+      "description": "Turns meeting notes into who does what by when, and nothing else."
+    },
+    {
+      "name": "weekly-review",
+      "source": "./plugins/weekly-review",
+      "description": "Turns a week of notes into three bullets and one question worth sitting with."
+    },
+    {
+      "name": "revue-de-la-semaine",
+      "source": "./plugins/revue-de-la-semaine",
+      "description": "Relit une semaine de notes et en tire trois points et une question."
+    }
+  ]
+}
