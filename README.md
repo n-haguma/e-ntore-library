@@ -5,7 +5,7 @@ marketplace. The same items, with their stories, are at https://entore.ai/librar
 
 Add the marketplace, then install a skill:
 
-    /plugin marketplace add e-ntore/e-ntore-library
+    /plugin marketplace add n-haguma/e-ntore-library
     /plugin install weekly-review@e-ntore-library
 
 Each skill is one SKILL.md file, licensed CC-BY-4.0. e-ntore users keep them straight
